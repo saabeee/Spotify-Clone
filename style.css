@@ -185,8 +185,6 @@ body {
 
 .playlist .list .item {
     min-width: 140px;
-    width: 140px;
-
     padding: 15px;
     background-color: #181818;
     border-radius: 6px;
